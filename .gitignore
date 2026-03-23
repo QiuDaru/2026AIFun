@@ -1,0 +1,9 @@
+# 忽略 Python 虛擬環境與套件
+MLGame/funai/
+__pycache__/
+*.pyc
+
+# 忽略大型二進位檔
+*.dll
+*.so
+*.exe
